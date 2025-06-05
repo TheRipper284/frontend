@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fondo gris claro -->
+    <rect width="400" height="400" fill="#F3F4F6"/>
+    
+    <!-- Icono de imagen -->
+    <path d="M200 120C177.909 120 160 137.909 160 160C160 182.091 177.909 200 200 200C222.091 200 240 182.091 240 160C240 137.909 222.091 120 200 120ZM200 180C188.954 180 180 171.046 180 160C180 148.954 188.954 140 200 140C211.046 140 220 148.954 220 160C220 171.046 211.046 180 200 180Z" fill="#9CA3AF"/>
+    
+    <!-- Líneas de la imagen -->
+    <path d="M280 240H120C114.477 240 110 244.477 110 250V290C110 295.523 114.477 300 120 300H280C285.523 300 290 295.523 290 290V250C290 244.477 285.523 240 280 240ZM270 280H130V260H270V280Z" fill="#9CA3AF"/>
+    
+    <!-- Texto "No hay imagen" -->
+    <text x="200" y="340" font-family="Arial" font-size="16" fill="#6B7280" text-anchor="middle">No hay imagen</text>
+</svg>
